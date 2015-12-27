@@ -9,7 +9,6 @@ import android.widget.Toast;
 /**
  */
 public class BaseActivity extends AppCompatActivity {
-    private Dialog progressDialog;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
